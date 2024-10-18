@@ -20,7 +20,7 @@ public class exec1 {
 		
 		System.out.println("SOMA: " + resul);
 		
-		
+		sc.close();
 	}
 
 }

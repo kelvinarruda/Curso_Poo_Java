@@ -20,7 +20,7 @@ public class exec3 {
 			
 		System.out.println("DIFERENCA: " + resul);
 		
-
+		sc.close();
 	}
 
 }

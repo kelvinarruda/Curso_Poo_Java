@@ -22,7 +22,7 @@ public class exec4 {
 		
 		System.out.printf("NUMBER = %d%nSALARY: U$ %.2f", numeroFunc , salarioRecebido);
 		
-
+		sc.close();
 	}
 
 }

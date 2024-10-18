@@ -17,7 +17,7 @@ public class exec2 {
 		
 		System.out.printf("A=%.4f", formArea);
 
-		
+		sc.close();
 	}
 
 }

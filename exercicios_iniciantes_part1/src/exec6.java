@@ -30,7 +30,7 @@ public class exec6 {
 		
 		System.out.printf("TRIANGULO = %.3f%nCIRCULO = %.3f%nTRAPEZIO = %.3f%nQUADRADO = %.3f%nRETANGULO = %.3f", areaDoTriangulo,areaDoCirculo, areaDoTrapezio, areaDoQuadrado, areaDoRetangulo);
 		
-		
+		sc.close();
 	}
 
 }

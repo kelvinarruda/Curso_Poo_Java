@@ -25,6 +25,7 @@ public class exec5 {
 		
 		System.out.printf("VALOR A PAGAR. R$ %.2f", vlrTotalPagar);
 		
+		sc.close();
 	}
 
 }
